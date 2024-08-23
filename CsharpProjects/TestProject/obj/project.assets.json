@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alex/Documents/Github/C_Sharp_Certification/CsharpProjects/TestProject/TestProject.csproj",
+      "projectUniqueName": "/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/alex/Documents/Github/C_Sharp_Certification/CsharpProjects/TestProject/TestProject.csproj",
+      "projectPath": "/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/TestProject/TestProject.csproj",
       "packagesPath": "/Users/alex/.nuget/packages/",
-      "outputPath": "/Users/alex/Documents/Github/C_Sharp_Certification/CsharpProjects/TestProject/obj/",
+      "outputPath": "/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alex/.nuget/NuGet/NuGet.Config"
