@@ -1,0 +1,15 @@
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/bin/Debug/net8.0/Test2
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/bin/Debug/net8.0/Test2.deps.json
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/bin/Debug/net8.0/Test2.runtimeconfig.json
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/bin/Debug/net8.0/Test2.dll
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/bin/Debug/net8.0/Test2.pdb
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.AssemblyInfoInputs.cache
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.AssemblyInfo.cs
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.sourcelink.json
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.dll
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/refint/Test2.dll
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.pdb
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/Test2.genruntimeconfig.cache
+/Users/alex/Documents/Github/C_Sharp_Certification/c-sharp-certification/CsharpProjects/Test2/obj/Debug/net8.0/ref/Test2.dll
